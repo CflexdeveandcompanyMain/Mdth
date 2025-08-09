@@ -2766,7 +2766,7 @@
         scroll-behavior: smooth;
         -webkit-overflow-scrolling: touch;
     }
-    trusted-by {
+    .trusted-by {
   text-align: center;
   padding: 3rem 1rem;
   background: #0e0e0e; /* Dark background for premium look */
